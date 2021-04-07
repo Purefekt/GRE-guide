@@ -24,7 +24,7 @@ To imporve my vocabulary i referred to the following:
 - Barrons 1100 words you need to know
 - Barrons 333 high frequency words
 - GRE Vocabulary Flashcards by Magoosh -  all Basic Words (350) and Common Words (300) lists
-- New words encountered while studying passages, watching movies, etc
+- New words encountered while studying passages, watching movies, etc  
 You might think thats atleast 1100+333+350+300 = 2083 words plus the new words while reading etc, but the truth is there will be many words which you already know and there will be many words which are common to many of those sources which brings down the true number of **NEW** words down. The best startegy is to go through those sources one by one and write down the new word and its meaning in a notebook. I made a digital notebook on my iPad which is linked [here]() and i ended up with roughly 1035 new words. Try to do 50 words per day, or more and revise words from page 1 everyday. So suppose today is day 3 and you are up to 150 new words, dont just revise the words for day 3 but revise words for day 1 then day 2 and then day 3. Towards the end of your preparation, on maybe day 20, u will need to revise from day 1 to day 20 and that will take some time but this way you will never forget these words in your life.
 
 ## Day by Day plan
