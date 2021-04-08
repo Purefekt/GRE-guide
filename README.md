@@ -30,3 +30,4 @@ You might think thats atleast 1100+333+350+300 = 2083 words plus the new words w
 
 ## Day by Day plan
 1. Day 1 - 
+2. Day 2 - 
