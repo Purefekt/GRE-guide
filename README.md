@@ -20,6 +20,7 @@ I bought the Magoosh GRE 6 month plan since the 6 month plan is just slightly mo
 
 ## Vocabulary
 Having a strong vocabulary is very important to correctly answer 20/40 of the verbal questions. These problems are the sentance equivalence problems, where there will be a blank in a sectance and you must choose 2 words from the options which are can be applied in the blank and the text completetion problems which have one, two or three blanks and one correct answer per blank. These problems have high level vocabulary words so knowing a vast number of words will certainly help you.  
+  
 To imporve my vocabulary i referred to the following:
 - Barrons 1100 words you need to know
 - Barrons 333 high frequency words
