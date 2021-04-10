@@ -32,3 +32,4 @@ You might think thats atleast 1100+333+350+300 = 2083 words plus the new words w
 1. Day 1 - 
 2. Day 2 - 
 3. Day 3 - 
+4. Day 4 - 
