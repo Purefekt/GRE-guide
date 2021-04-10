@@ -1,5 +1,5 @@
 # GRE-guide
-This is how i prepared for the GRE for the first time in exactly X days.
+This is how i prepared for the GRE for the first time in exactly 31 days. This was my first ever attempt and i had not done any GRE specific preparation before this.
 
 ## GRE Pattern
 GRE will have 2 AWA (Essay writing) sections, 2 Quant (Math) sections, 2 Verbal (English) sections and 1 experimental (either Quant or Verbal) section. The exam always begins with the 2 AWA sections of 30 min each, followed by either a Quant or Verbal section. So after the first hour you are done with essay writing part (which is not important for Masters program but it is very crucial for PhD programs). Now you are left with 2 verbal sections (30 min each) , 2 math sections (3 min eac) and a Experimental section. You can get these in any random order and you will **NOT** be told if a section is experimental or not. The experimental section is not graded and its basically there to let ETS (makers of gre) to test new questions. Since the test taker has no idea which section is an experimental section, the test taker must solve each section with maximum dilligence.  
@@ -31,7 +31,36 @@ To imporve my vocabulary i referred to the following:
 You might think thats atleast 1100+333+350+300 = 2083 words plus the new words while reading etc, but the truth is there will be many words which you already know and there will be many words which are common to many of those sources which brings down the true number of **NEW** words down. The best startegy is to go through those sources one by one and write down the new word and its meaning in a notebook. I made a digital notebook on my iPad which is linked [here]() and i ended up with roughly 1035 new words. Try to do 50 words per day, or more and revise words from page 1 everyday. So suppose today is day 3 and you are up to 150 new words, dont just revise the words for day 3 but revise words for day 1 then day 2 and then day 3. Towards the end of your preparation, on maybe day 20, u will need to revise from day 1 to day 20 and that will take some time but this way you will never forget these words in your life.
 
 ## Day by Day plan
-1. Day 1 - 
-2. Day 2 - 
-3. Day 3 - 
-4. Day 4 - 
+Note - For the Magoosh videos, its wise to skip the math videos except the topics you are weak in and you can watch or go over the verbal videos with 1.5x speed. Also make sure to make notes for the math concepts you thing you might forget.  
+  
+1.  Day 1  - Magoosh One-Month:Beginner plan Day 1 + 100 words (Material for this day is less so do more words)
+2.  Day 2  - Magoosh One-Month:Beginner plan Day 2 + 50 words
+3.  Day 3  - Magoosh One-Month:Beginner plan Day 3 + 50 words
+4.  Day 4  - Magoosh One-Month:Beginner plan Day 4 + 50 words
+5.  Day 5  - Magoosh One-Month:Beginner plan Day 5 + 50 words
+6.  Day 6  - Magoosh One-Month:Beginner plan Day 6 + 100 words (Skip the AWA part for this day and do more words)
+7.  Day 7  - Magoosh One-Month:Beginner plan Day 8 + 50 words
+8.  Day 8  - Magoosh One-Month:Beginner plan Day 9 + 50 words
+9.  Day 9  - Magoosh One-Month:Beginner plan Day 10 + 50 words
+10. Day 10 - Magoosh One-Month:Beginner plan Day 11 + 50 words
+11. Day 11 - Magoosh One-Month:Beginner plan Day 12 + 50 words
+12. Day 12 - Magoosh One-Month:Beginner plan Day 15 + 50 words
+13. Day 13 - Magoosh One-Month:Beginner plan Day 16 + 50 words
+14. Day 14 - Magoosh One-Month:Beginner plan Day 17 + 50 words
+15. Day 15 - Magoosh One-Month:Beginner plan Day 18 + 50 words
+16. Day 16 - Magoosh One-Month:Beginner plan Day 19 + 50 words
+17. Day 17 - Magoosh One-Month:Beginner plan Day 22 + 50 words
+18. Day 18 - Magoosh One-Month:Beginner plan Day 23 + 50 words
+19. Day 19 - Magoosh One-Month:Beginner plan Day 24 + 50 words
+20. Day 20 - Magoosh One-Month:Beginner plan Day 25 + 50 words
+21. Day 21 - Magoosh One-Month:Beginner plan Day 26 + 50 words
+22. Day 22 - Magoosh One-Month:Beginner plan Day 6 (AWA part) and then Day 13 (do the AWA practice)
+23. Day 23 - Magoosh Mock Test during the day and check mistakes at night
+24. Day 24 - Magoosh Mock Test during the day and check mistakes at night
+25. Day 25 - Revise all your words (Its better if you ask a friend to ask you the words in a random order)
+26. Day 26 - Read articles on how to do better on the AWA
+27. Day 27 - Revise math concepts from the notes
+28. Day 28 - Powerprep Mock Test 1 (You get 2 free mock tests from ETS, this is the best mock test)
+29. Day 29 - Powerprep Mock Test 2
+30. Day 30 - Kaplan mock test (You can google "kaplan gre mock test" and get a free mock test after making a free account)
+31. Day 31 - GIVE THE GRE!
