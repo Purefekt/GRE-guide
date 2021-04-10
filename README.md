@@ -3,6 +3,7 @@ This is how i prepared for the GRE for the first time in exactly X days.
 
 ## GRE Pattern
 GRE will have 2 AWA (Essay writing) sections, 2 Quant (Math) sections, 2 Verbal (English) sections and 1 experimental (either Quant or Verbal) section. The exam always begins with the 2 AWA sections of 30 min each, followed by either a Quant or Verbal section. So after the first hour you are done with essay writing part (which is not important for Masters program but it is very crucial for PhD programs). Now you are left with 2 verbal sections (30 min each) , 2 math sections (3 min eac) and a Experimental section. You can get these in any random order and you will **NOT** be told if a section is experimental or not. The experimental section is not graded and its basically there to let ETS (makers of gre) to test new questions. Since the test taker has no idea which section is an experimental section, the test taker must solve each section with maximum dilligence.  
+  
 An example of a gre exam could be:
 - Issue Task (30min)
 - Argument Task (30min)
