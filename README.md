@@ -53,7 +53,7 @@ Note - For the Magoosh videos, its wise to skip the math videos except the topic
 18. Day 18 - Magoosh One-Month:Beginner plan Day 23 + 50 words
 19. Day 19 - Magoosh One-Month:Beginner plan Day 24 + 50 words
 20. Day 20 - Magoosh One-Month:Beginner plan Day 25 + 50 words
-21. Day 21 - Magoosh One-Month:Beginner plan Day 26 + 50 words (last day for new words, by this point you must have a list of ~1150 new words, i reached 1035 and it is linked [here]())
+21. Day 21 - Magoosh One-Month:Beginner plan Day 26 + 50 words (last day for new words, by this point you must have a list of ~1150 new words, i reached 1035 and it is linked [here](https://github.com/Purefekt/GRE-guide/blob/main/GRE%20Words.pdf))
 22. Day 22 - Magoosh One-Month:Beginner plan Day 6 (AWA part) and then Day 13 (do the AWA practice)
 23. Day 23 - Magoosh Mock Test during the day and check mistakes at night
 24. Day 24 - Magoosh Mock Test during the day and check mistakes at night
