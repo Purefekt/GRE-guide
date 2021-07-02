@@ -2,7 +2,7 @@
 This is how i prepared for the GRE for the first time in exactly 30 days and scored XXXXX. This was my first ever attempt and i had not done any GRE specific preparation before this.
 
 ## GRE Pattern
-GRE will have 2 AWA (Essay writing) sections, 2 Quant (Math) sections, 2 Verbal (English) sections and 1 experimental (either Quant or Verbal) section. The exam always begins with the 2 AWA sections of 30 min each, followed by either a Quant or Verbal section. So after the first hour you are done with essay writing part (which is not important for Masters program but it is very crucial for PhD programs). Now you are left with 2 verbal sections (30 min each) , 2 math sections (35 min each) and a Experimental section. You can get these in any random order and you will **NOT** be told if a section is experimental or not. The experimental section is not graded and its basically there to let ETS (makers of gre) test new questions. Since the test taker has no idea which section is an experimental section, the test taker must solve each section with maximum dilligence.  
+GRE will have 2 AWA (Essay writing) sections, 2 Quant (Math) sections, 2 Verbal (English) sections and 1 experimental (either Quant or Verbal) section. The exam always begins with the 2 AWA sections of 30 min each, followed by either a Quant or Verbal section. So after the first hour you are done with essay writing part (which is not important for Masters program but it is very crucial for PhD programs). Now you are left with 2 verbal sections (30 min each) , 2 math sections (35 min each) and a Experimental section. You can get these in any random order and you will **NOT** be told if a section is experimental or not. The experimental section is not graded and its basically there to let ETS test new questions. Since you have no idea which section is an experimental section, you must solve each section with maximum dilligence.  
   
 An example of a gre exam could be:
 - Issue Task (30min)
@@ -23,16 +23,15 @@ I bought the Magoosh GRE 6 month plan since the 6 month plan is just slightly mo
 Having a strong vocabulary is very important to correctly answer 20/40 of the verbal questions. These problems are the sentance equivalence problems, where there will be a blank in a sectance and you must choose 2 words from the options which are can be applied in the blank and the text completetion problems which have one, two or three blanks and one correct answer per blank. These problems have high level vocabulary words so knowing a vast number of words will certainly help you.  
   
 To imporve my vocabulary i referred to the following:
-- Barrons 1100 words you need to know [link](https://github.com/Purefekt/GRE-guide/blob/main/1100%20words%20Barrons.pdf)
-- Barrons 1100 words you need to know [link](1100_words_Barrons.pdf)
-- Barrons 333 high frequency words [link](https://github.com/Purefekt/GRE-guide/blob/main/Barrons%20333.pdf)
-- GRE Vocabulary Flashcards by Magoosh -  all Basic Words (350) and Common Words (300) lists [link](https://play.google.com/store/apps/details?id=com.magoosh.flashcards.gre)
+- [Barrons 1100 words you need to know](1100_words_Barrons.pdf)
+- [Barrons 333 high frequency words](Barrons_333.pdf)
+- [GRE Vocabulary Flashcards by Magoosh -  all Basic Words (350) and Common Words (300) lists](https://play.google.com/store/apps/details?id=com.magoosh.flashcards.gre)
 - New words encountered while studying passages, watching movies, etc  
   
-You might think thats atleast 1100+333+350+300 = 2083 words plus the new words while reading etc, but the truth is there will be many words which you already know and there will be many words which are common to many of those sources which brings down the true number of **NEW** words down. The best startegy is to go through those sources one by one and write down the new word and its meaning in a notebook. I made a digital notebook on my iPad which is linked [here](https://github.com/Purefekt/GRE-guide/blob/main/GRE%20Words.pdf) and i ended up with roughly 1035 new words. Try to do 50 words per day, or more and revise words from page 1 everyday. So suppose today is day 3 and you are up to 150 new words, dont just revise the words for day 3 but revise words for day 1 then day 2 and then day 3. Towards the end of your preparation, on maybe day 20, u will need to revise from day 1 to day 20 and that will take some time but this way you will never forget these words in your life.
+You might think thats atleast 1100+333+350+300 = 2083 words plus the new words while reading etc, but the truth is there will be many words which you already know and there will be many words which are common to many of those sources which brings down the true number of **NEW** words down. The best startegy is to go through those sources one by one and write down the new word and its meaning in a notebook. I made a digital notebook on my iPad which is linked [here](GRE_Words.pdf) and i ended up with roughly 1035 new words. Try to do 50 words per day, or more and revise words from page 1 everyday. So suppose today is day 3 and you are up to 150 new words, dont just revise the words for day 3 but revise words for day 1 then day 2 and then day 3. Towards the end of your preparation, on maybe day 20, u will need to revise from day 1 to day 20 and that will take some time but this way you will never forget these words in your life.
 
 ## Day by Day plan
-Note - For the Magoosh videos, its wise to skip the math videos except the topics you are weak in and you can watch or go over the verbal videos with 1.5x speed. Also make sure to make notes for the math concepts you thing you might forget. My notes for math are linked [here](https://github.com/Purefekt/GRE-guide/blob/main/GRE%20Quant.pdf). I have also uploaded my notes for the AWA section but its pretty much the same as the magoosh video [link](https://github.com/Purefekt/GRE-guide/blob/main/GRE%20AWA.pdf).
+Note - For the Magoosh videos, its wise to skip the math videos except the topics you are weak in and you can watch or go over the verbal videos with 1.5x speed. Also make sure to make notes for the math concepts you thing you might forget. My notes for math are linked [here](GRE_Quant.pdf). I have also uploaded my notes for the AWA section but its pretty much the same as the magoosh video [link](GRE_AWA.pdf).
   
 1.  Day 1  - Magoosh One-Month:Beginner plan Day 1 + 100 words (Material for this day is less so do more words)
 2.  Day 2  - Magoosh One-Month:Beginner plan Day 2 + 50 words
@@ -54,7 +53,7 @@ Note - For the Magoosh videos, its wise to skip the math videos except the topic
 18. Day 18 - Magoosh One-Month:Beginner plan Day 23 + 50 words
 19. Day 19 - Magoosh One-Month:Beginner plan Day 24 + 50 words
 20. Day 20 - Magoosh One-Month:Beginner plan Day 25 + 50 words
-21. Day 21 - Magoosh One-Month:Beginner plan Day 26 + 50 words (last day for new words, by this point you must have a list of ~1150 new words, i reached 1035 and it is linked [here](https://github.com/Purefekt/GRE-guide/blob/main/GRE%20Words.pdf))
+21. Day 21 - Magoosh One-Month:Beginner plan Day 26 + 50 words (last day for new words, by this point you must have a list of ~1150 new words, i reached 1035 and it is linked [here](GRE_Words.pdf))
 22. Day 22 - Magoosh One-Month:Beginner plan Day 6 (AWA part) and then Day 13 (do the AWA practice)
 23. Day 23 - Magoosh Mock Test during the day and check mistakes at night
 24. Day 24 - Magoosh Mock Test during the day and check mistakes at night
