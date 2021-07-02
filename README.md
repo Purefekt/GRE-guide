@@ -24,6 +24,7 @@ Having a strong vocabulary is very important to correctly answer 20/40 of the ve
   
 To imporve my vocabulary i referred to the following:
 - Barrons 1100 words you need to know [link](https://github.com/Purefekt/GRE-guide/blob/main/1100%20words%20Barrons.pdf)
+- Barrons 1100 words you need to know [link](1100_words_Barrons.pdf)
 - Barrons 333 high frequency words [link](https://github.com/Purefekt/GRE-guide/blob/main/Barrons%20333.pdf)
 - GRE Vocabulary Flashcards by Magoosh -  all Basic Words (350) and Common Words (300) lists [link](https://play.google.com/store/apps/details?id=com.magoosh.flashcards.gre)
 - New words encountered while studying passages, watching movies, etc  
