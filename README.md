@@ -1,4 +1,4 @@
-# GRE-guide
+# GRE guide to score 327 in exactly 30 days
 This is how i prepared for the GRE for the first time in exactly 30 days and scored 327 (170 Quant 157 Verbal). This was my first ever attempt and i had not done any GRE specific preparation before this.
 
 ## GRE Pattern
